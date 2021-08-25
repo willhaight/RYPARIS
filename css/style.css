@@ -56,4 +56,17 @@ h1 {
     display:flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    background-color: rgb(109, 75, 32);
+}
+#chickenTery {
+    position:relative;
+    top:50px;
+    right:100px; 
+}
+#faj {
+    position: relative;
+    top:140px;
+}
+.gallerySpacing {
+    padding:40px;
 }
