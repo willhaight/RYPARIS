@@ -52,3 +52,8 @@ h1 {
     padding-right: 40px;
     padding-left:40px;
 }
+.imageGallery {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
