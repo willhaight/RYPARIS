@@ -1,0 +1,54 @@
+body {
+    background-color: orange;
+}
+#navigation {
+    text-decoration: none;
+    position: absolute;
+    left:70%;
+    display:flex;
+    top:40px;
+}
+#heading {
+    background-color: rgb(168, 109, 0);
+    text-decoration: none;
+    padding-bottom:100px;
+    display:flex;
+    align-items:center;
+}
+a {
+    text-decoration: none;
+    color:rgb(41, 38, 38);
+}
+h1 {
+    position:absolute;
+    left:15%;
+    top:40px;
+}
+#homeFood {
+    width:1250px;
+    padding-top: 30px;
+    margin-right:40px;
+}
+#recipe {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+#steak {
+    width:800px;
+    margin-left:40px;
+    margin-right: 30px;
+    padding-top:40px;
+}
+#vid {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+#mainSite {
+    display:flex;
+    justify-content: center;
+    padding-right: 40px;
+    padding-left:40px;
+}
