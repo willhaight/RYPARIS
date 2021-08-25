@@ -1,14 +1,14 @@
 body {
     background-color: orange;
 }
-#navigation {
+.navigation {
     text-decoration: none;
     position: absolute;
     left:70%;
     display:flex;
-    top:40px;
+    top:70px;
 }
-#heading {
+.heading {
     background-color: rgb(168, 109, 0);
     text-decoration: none;
     padding-bottom:100px;
@@ -26,6 +26,7 @@ a {
     position:relative;
     left:15%;
     top:40px;
+    border:5px solid rgba(0, 0, 0, 0.671);
 }
 #homeFood {
     width:1250px;
