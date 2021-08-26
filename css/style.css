@@ -71,5 +71,6 @@ a {
     top:140px;
 }
 .gallerySpacing {
-    padding:40px;
+    margin:40px;
+    border:4px solid black;
 }
