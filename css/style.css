@@ -47,8 +47,9 @@ a {
 }
 #vid {
     display: flex;
+    width:auto;
     justify-content: center;
-    padding-top: 30px;
+    margin-top: 30px;
 }
 #mainSite {
     display:flex;
@@ -74,4 +75,25 @@ a {
 .gallerySpacing {
     margin:40px;
     border:4px solid black;
+}
+footer {
+    display:flex;
+    justify-content: space-between;
+    margin-top:2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border:4px solid black;
+    padding-left:25px;
+    padding-right:25px;
+}
+footer, li {
+    display: flex;
+    flex-wrap: wrap;
+}
+footer, h4 {
+    font-size: 1.7em;
+}
+iframe {
+    border:4px orangered solid;
 }
